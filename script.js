@@ -40,7 +40,7 @@ async function getMoreInfo(id) {
 }
 
 
-// Link Trailer
+// Link Trailer | -- Em implantação -- |
 /*async function watch(e) {
     const movie_id = e.currentTarget.dataset.id
     
